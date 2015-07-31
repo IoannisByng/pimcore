@@ -1,0 +1,20 @@
+[23-Jul-2015 14:36:46 Europe/Berlin] PHP Fatal error:  Class 'Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 10
+[23-Jul-2015 14:38:10 Europe/Berlin] PHP Fatal error:  Class 'Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 10
+[23-Jul-2015 14:38:19 Europe/Berlin] PHP Fatal error:  Class 'Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 10
+[23-Jul-2015 15:16:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/byng/Repos/pimcoredemo/website/views/layouts/standard.php on line 13
+[24-Jul-2015 17:18:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'S' (T_STRING), expecting ')' in /home/byng/Repos/pimcoredemo/website/views/scripts/default/default.php on line 25
+[24-Jul-2015 17:56:59 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:07:48 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:08:19 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:12:25 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:13:49 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:15:58 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:16:04 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:17:29 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:17:40 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:17:43 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:27:50 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:30:04 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:30:36 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[24-Jul-2015 18:31:27 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/ContentController.php on line 9
+[27-Jul-2015 10:46:22 Europe/Berlin] PHP Fatal error:  Class 'Website_Controller_Action' not found in /home/byng/Repos/pimcoredemo/website/controllers/RenderletController.php on line 9
